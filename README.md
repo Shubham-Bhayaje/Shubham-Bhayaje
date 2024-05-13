@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.freepik.com/premium-photo/hooded-hacker-logo-mascot_941097-24715.jpg?size=626&ext=jpg&ga=GA1.1.999671431.1715623500&semt=ais_user"  />
 
 ###
 
