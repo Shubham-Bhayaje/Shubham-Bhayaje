@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Open Source Contributor | Cloud & AI Enthusiast | DevOps Learner | Language Learning Advocate
 
-I'm a passionate full-stack developer from India who thrives on building practical and impactful projects. I love solving real-world problems using clean, scalable code. Currently diving deep into **cloud computing**, **Linux administration**, **cybersecurity**, and **AI**, while working on innovative side projects like an **English teaching conversation bot** and a **manga tracker app**. Open to collaboration and knowledge sharing!
+I'm a passionate full-stack developer from India who thrives on building practical and impactful projects. I love solving real-world problems using clean, scalable code. Currently diving deep into **cloud computing**, **Linux administration**, **cybersecurity**, and **AI**, while working on innovative side projects like an **English teaching conversation bot** and a **code visualizer app**. Open to collaboration and knowledge sharing!
 
 ---
 
