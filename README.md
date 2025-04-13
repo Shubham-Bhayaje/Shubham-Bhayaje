@@ -80,8 +80,8 @@ I'm a passionate full-stack developer from India who thrives on building practic
 ## 📫 How to Reach Me
 
 - **Email:** [shubhambhayaje915@gmail.com](mailto:shubhambhayaje915@gmail.com)  
-- **LinkedIn:** [Your Profile](#)  
-- **Twitter:** [@YourHandle](#)
+- **LinkedIn:** [shubham-bhayaje](linkedin.com/in/shubham-bhayaje/)  
+
 
 ---
 
