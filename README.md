@@ -70,8 +70,10 @@ I'm a passionate full-stack developer from India who thrives on building practic
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub stats](https://github.com/Shubham-Bhayaje/English-teaching-bot-android)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bhayaje&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Bhayaje&layout=compact&theme=radical)
+
 
 ---
 
