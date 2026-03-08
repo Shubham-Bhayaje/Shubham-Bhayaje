@@ -107,6 +107,38 @@ I'm a passionate DevOps & Cloud Engineer from Thane, Maharashtra 🇮🇳, speci
 
 ---
 
+### 🧠 linux-ai-cmd — DevOps AI Troubleshooting Assistant
+*Shell · Bash · OpenAI API · Linux · 2025* &nbsp; [![Repo](https://img.shields.io/badge/GitHub-linux--ai--cmd-black?style=flat&logo=github)](https://github.com/Shubham-Bhayaje/linux-ai-cmd)
+
+- Built a terminal-native AI assistant for Linux/DevOps troubleshooting — ask questions, explain commands, fix errors, generate Bash commands, analyze logs, and diagnose system issues directly from the CLI.
+- Integrates AI with real Linux system context, making it a practical daily tool for sysadmins and DevOps engineers.
+
+---
+
+### 📸 Event — Facial Recognition Photo Manager
+*Python · Facial Recognition · QR Code · AWS · 2025* &nbsp; [![Repo](https://img.shields.io/badge/GitHub-Event-black?style=flat&logo=github)](https://github.com/Shubham-Bhayaje/Event)
+
+- Built a web app for event admins to upload photos and auto-generate QR codes per event; attendees scan the QR code and the app uses **facial recognition** to surface only their own photos.
+- End-to-end pipeline: photo upload → face detection → attendee matching → personalized download — no manual filtering needed.
+
+---
+
+### 🔍 CodeView — Python Code Visualizer
+*Python · Educational Tool · 2025* &nbsp; [![Repo](https://img.shields.io/badge/GitHub-CodeView-black?style=flat&logo=github)](https://github.com/Shubham-Bhayaje/CodeView)
+
+- Developed an educational tool that executes Python code **line by line**, visually showing variable states, output, and execution flow in real time.
+- Designed to help beginners understand exactly how Python programs run — making abstract code behaviour concrete and interactive.
+
+---
+
+### 🎙️ VoxScript — Voice-to-Code Assistant
+*Python · OpenAI GPT-4o · Speech Recognition · 2025* &nbsp; [![Repo](https://img.shields.io/badge/GitHub-VoxScript-black?style=flat&logo=github)](https://github.com/Shubham-Bhayaje/VoxScript)
+
+- Built a voice-activated assistant that converts spoken natural language into executable Python code using OpenAI's GPT-4o.
+- Speak your intent — VoxScript transcribes, interprets, generates, and runs functional Python programs in real time.
+
+---
+
 ## 💼 Experience
 
 **IT Risk & Compliance Analyst (GRC)** — *Avenue Supermarts Ltd (D-Mart)*
@@ -127,8 +159,11 @@ I'm a passionate DevOps & Cloud Engineer from Thane, Maharashtra 🇮🇳, speci
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bhayaje&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Bhayaje&layout=compact&theme=radical)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bhayaje&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Bhayaje&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubham-Bhayaje&theme=radical&hide_border=true)
 
 ---
 
