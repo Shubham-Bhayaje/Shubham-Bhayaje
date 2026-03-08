@@ -159,9 +159,9 @@ I'm a passionate DevOps & Cloud Engineer from Thane, Maharashtra 🇮🇳, speci
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubham-Bhayaje&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Shubham's GitHub stats](https://github-readme-stats-eight-rho.vercel.app/api?username=Shubham-Bhayaje&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-Bhayaje&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=Shubham-Bhayaje&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shubham-Bhayaje&theme=radical&hide_border=true)
 
